@@ -1,0 +1,7 @@
+v1.1
+-added several loadable templates
+-added the ability to change cell colour
+-added keyboard shortcuts
+
+v1.0
+-initial release
